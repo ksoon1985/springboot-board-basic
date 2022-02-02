@@ -1,4 +1,4 @@
-package com.ksh.board;
+package com.ksh;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
